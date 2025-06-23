@@ -1,38 +1,38 @@
 [
   {
-    id: "nextjs",
-    name: "Next.js Full Course",
-    videos: [
+    "id": "nextjs",
+    "name": "Next.js Full Course",
+    "videos": [
       {
-        id: "1",
-        title: "NextJS nima",
-        description: "NextJS kirish darsi",
-        videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "id": "1",
+        "title": "NextJS nima",
+        "description": "NextJS kirish darsi",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
       },
       {
-        id: "2",
-        title: "NextJS routing",
-        description: "Routing darsi",
-        videoUrl: "https://www.youtube.com/embed/7hYPG7Haeuo",
-      },
-    ],
+        "id": "2",
+        "title": "NextJS routing",
+        "description": "Routing darsi",
+        "videoUrl": "https://www.youtube.com/embed/7hYPG7Haeuo"
+      }
+    ]
   },
   {
-    id: "reactjs",
-    name: "ReactJS Full Course",
-    videos: [
+    "id": "reactjs",
+    "name": "ReactJS Full Course",
+    "videos": [
       {
-        id: "1",
-        title: "ReactJS nima",
-        description: "ReactJS kirish darsi",
-        videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "id": "1",
+        "title": "ReactJS nima",
+        "description": "ReactJS kirish darsi",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
       },
       {
-        id: "2",
-        title: "JSX tushunchasi",
-        description: "JSX darsi",
-        videoUrl: "https://www.youtube.com/embed/S_XJV2tPiWk",
-      },
-    ],
-  },
-];
+        "id": "2",
+        "title": "JSX tushunchasi",
+        "description": "JSX darsi",
+        "videoUrl": "https://www.youtube.com/embed/S_XJV2tPiWk"
+      }
+    ]
+  }
+]
