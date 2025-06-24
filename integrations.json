@@ -1,0 +1,44 @@
+[
+  {
+    "id": "nextjs",
+    "name": "cler5k int",
+    "videos": [
+      {
+        "id": "1",
+        "title": "NextJS nima integ",
+        "description": "NextJS kirish darsi",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": "2",
+        "title": "NextJS routing integ",
+        "description": "Routing darsi",
+        "videoUrl": "https://www.youtube.com/embed/7hYPG7Haeuo"
+      },
+      {
+        "id": "3",
+        "title": "NextJS routing dailymotion integ",
+        "description": "Routing darsi motion",
+        "videoUrl": "https://geo.dailymotion.com/player.html?video=k3E1knyelZJNPWDiv5U"
+      }
+    ]
+  },
+  {
+    "id": "reactjs",
+    "name": "ReactJS Full Course clerk",
+    "videos": [
+      {
+        "id": "1",
+        "title": "ReactJS nima integ",
+        "description": "ReactJS kirish darsi",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": "2",
+        "title": "JSX tushunchasi integ",
+        "description": "JSX darsi",
+        "videoUrl": "https://www.youtube.com/embed/S_XJV2tPiWk"
+      }
+    ]
+  }
+]
