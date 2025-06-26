@@ -2,6 +2,7 @@
   {
     "id": "nextjs",
     "name": "Next.js Full Course",
+    "thumbnail": "https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg",
     "videos": [
       {
         "id": "1",
@@ -26,6 +27,7 @@
   {
     "id": "reactjs",
     "name": "ReactJS Full Course",
+     "thumbnail": "https://budventure.technology/public/frontend/images/services/frontend/react/Process_1.webp",
     "videos": [
       {
         "id": "1",
